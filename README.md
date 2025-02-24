@@ -3,7 +3,7 @@
 <div align="center">
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square&logo=bookstack)
-![Cursor](https://img.shields.io/badge/Cursor-0.45.x-green?style=flat-square&logo=cursor)
+![Cursor](https://img.shields.io/badge/Cursor-0.46.x-green?style=flat-square&logo=cursor)
 
 <img src="https://ai-cursor.com/wp-content/uploads/2024/09/logo-cursor-ai-png.webp" alt="Cursor Logo" width="120"/>
 
@@ -13,7 +13,7 @@
 
 ## English 🇺🇸
 
-✨ Compatible with Cursor 0.45.x
+✨ Compatible with Cursor 0.46.x
 
 ### ⚙️ Requirements
 - 🖥️ Windows
@@ -27,7 +27,7 @@
 
 ## Русский 🇷🇺
 
-✨ Совместимо с Cursor 0.45.x
+✨ Совместимо с Cursor 0.46.x
 
 ### ⚙️ Требования
 - 🖥️ Windows
