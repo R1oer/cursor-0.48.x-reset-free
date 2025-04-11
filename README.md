@@ -13,7 +13,7 @@
 
 ## English 🇺🇸
 
-✨ Compatible with Cursor 0.46.x
+✨ Compatible with Cursor 0.48.x
 
 ### ⚙️ Requirements
 - 🖥️ Windows
@@ -27,7 +27,7 @@
 
 ## Русский 🇷🇺
 
-✨ Совместимо с Cursor 0.46.x
+✨ Совместимо с Cursor 0.48.x
 
 ### ⚙️ Требования
 - 🖥️ Windows
